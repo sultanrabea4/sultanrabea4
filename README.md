@@ -1,4 +1,4 @@
-# Hi, I'm Sultan Mohammed Rabea 👋
+Sultan Mohammed Rabea 
 
 **Cybersecurity graduate** (B.Sc. (Hons) Computer Science – Cybersecurity, Asia Pacific University) focused on **SOC operations, threat detection, application security and network security**.
 
